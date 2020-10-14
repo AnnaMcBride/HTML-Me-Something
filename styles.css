@@ -1,0 +1,54 @@
+#myHeader {
+   background-color: aquamarine; 
+   color: darkslategrey;
+   padding: 40px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: darkslategrey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+body {
+    padding-left: 70pt;
+    padding-right: 70pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+img {
+    max-width: 300px;
+    margin: 20px 0px;
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.panel {
+    display: inline-block;
+    background-color: olivedrab;
+    min-height: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+.panel2 {
+    display: inline-block;
+    background-color: powderblue;
+    min-height: 100px;
+    height: fit-content;
+    padding: 20px;
+}
